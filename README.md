@@ -36,6 +36,8 @@ Responsive CMS for blogs and events with publishing workflows and content manage
 
 - React
 - TypeScript
+- Next
+- Chakra UI
 - Tailwind CSS
 - Redux Toolkit
 - RTK Query
